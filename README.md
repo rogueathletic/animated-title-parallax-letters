@@ -6,6 +6,6 @@
   
   <img src="https://github.com/rogueathletic/animated-title-parallax-letters/blob/master/img/animated-title.gif?raw=true">
 </a>
+</p>
 
-
-( Click above gif to see code working live )</p>
+<p align="center">( Click above gif to see code working live )</p>
