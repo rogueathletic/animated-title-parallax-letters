@@ -1,0 +1,289 @@
+
+  
+  .arrow-down {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-top: 5vw solid darkslategrey;
+    position: absolute;
+    z-index: 4;
+    margin: -5vh 0 0 7.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-right {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent;
+    border-left: 5vw solid #33aeae;
+    position: absolute;
+    z-index: 6;
+    margin: 0 0 0 5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-left {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent; 
+    border-right:5vw solid black; 
+    position: absolute;
+    z-index: 8;
+    margin: 0vw 0 5vw 15vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+.arrow-up {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-bottom: 5vw solid chartreuse;
+    position: absolute;
+    z-index: 1;
+    margin: 7.5vw 0 0 7.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+
+/* TWO BELOW */
+
+
+  
+.arrow-down2 {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-top: 5vw solid #33aeae;
+    position: absolute;
+    z-index: 4;
+    margin: -5vh 0 0 25vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-right2 {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent;
+    border-left: 5vw solid chartreuse;
+    position: absolute;
+    z-index: 6;
+    margin: 0 0 0 22.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-left2 {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent; 
+    border-right:5vw solid darkslategrey; 
+    position: absolute;
+    z-index: 8;
+    margin: 0vw 0 5vw 32.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+.arrow-up2 {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-bottom: 5vw solid black;
+    position: absolute;
+    z-index: 1;
+    margin: 7.5vw 0 0 25vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+
+/* three BELOW */
+
+
+  
+.arrow-down3 {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-top: 5vw solid #33aeae;
+    position: absolute;
+    z-index: 4;
+    margin: -5vh 0 0 42.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-right3 {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent;
+    border-left: 5vw solid chartreuse;
+    position: absolute;
+    z-index: 6;
+    margin: 0 0 0 40vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-left3 {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent; 
+    border-right:5vw solid darkslategrey; 
+    position: absolute;
+    z-index: 8;
+    margin: 0vw 0 5vw 50vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+.arrow-up3 {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-bottom: 5vw solid black;
+    position: absolute;
+    z-index: 1;
+    margin: 7.5vw 0 0 42.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+
+/* FOUR BELOW */
+
+
+  
+.arrow-down4 {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-top: 5vw solid #33aeae;
+    position: absolute;
+    z-index: 4;
+    margin: -5vh 0 0 62.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-right4 {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent;
+    border-left: 5vw solid chartreuse;
+    position: absolute;
+    z-index: 6;
+    margin: 0 0 0 60vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-left4 {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent; 
+    border-right:5vw solid darkslategrey; 
+    position: absolute;
+    z-index: 8;
+    margin: 0vw 0 5vw 70vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+.arrow-up4 {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-bottom: 5vw solid black;
+    position: absolute;
+    z-index: 1;
+    margin: 7.5vw 0 0 62.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+
+/* five BELOW */
+
+
+  
+.arrow-down5 {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-top: 5vw solid #33aeae;
+    position: absolute;
+    z-index: 4;
+    margin: -5vh 0 0 82.5vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+
+}
+  
+  .arrow-right5 {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent;
+    border-left: 5vw solid chartreuse;
+    position: absolute;
+    z-index: 6;
+    margin: 0 0 0 80vw;
+filter: drop-shadow(0.3vw -0.3vw #000);
+opacity: 0.1;
+}
+  
+  .arrow-left5 {
+    width: 0; 
+    height: 0; 
+    border-top: 5vw solid transparent;
+    border-bottom: 5vw solid transparent; 
+    border-right:5vw solid darkslategrey; 
+    position: absolute;
+    z-index: 8;
+    margin: 0vw 0 5vw 90vw;
+filter: drop-shadow(13px -13px #000);
+opacity: 0.1;
+}
+.arrow-up5 {
+    width: 0; 
+    height: 0; 
+    border-left: 5vw solid transparent;
+    border-right: 5vw solid transparent;
+    border-bottom: 5vw solid black;
+    position: absolute;
+    z-index: 1;
+    margin: 7.5vw 0 0 82.5vw;
+filter: drop-shadow(0.3vw -0.3v- chartreuse);
+opacity: 0.2
+}

@@ -1,0 +1,41 @@
+.flag {
+    width: 100vw;
+    height:130px;
+    margin:0 0 100px 0;
+
+}
+.flag-element {
+    -webkit-animation:oscill 1s ease-in-out infinite alternate; 
+    -moz-animation:oscill 1s ease-in-out infinite alternate; 
+    -ms-animation:oscill 1s ease-in-out infinite alternate; 
+    animation:oscill 1s ease-in-out infinite alternate; 
+    background: url('../skunkworksweb.png') no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* background-repeat: none!important; */
+    position:relative;
+    height:120px;
+    width: 2px;
+    display:inline-block;
+
+}
+
+@-webkit-keyframes oscill {
+      0% { top:  2%; }        
+    100% { top: -2%; }
+}
+@-moz-keyframes oscill {
+      0% { top:  2%; }        
+    100% { top: -2%; }
+}
+@-ms-keyframes oscill {
+      0% { top:  2%; }        
+    100% { top: -2%; }
+}
+
+@keyframes oscill {
+       0% { top: 2%; }        
+    100% { top: -2%; }
+}
